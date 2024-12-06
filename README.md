@@ -28,3 +28,6 @@ If you find any difficulty, please contact dikshitchauahn608@gmail.com
   year={2024},
   publisher={Springer}
 }
+
+# Thanks
+Dr. Anupam Yadav and Dr. Ferrante Neri
